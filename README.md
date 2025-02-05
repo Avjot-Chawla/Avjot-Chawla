@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Avjot Singh Chawla</h1>
-<h3 align="center">I'm Avjot Singh Chawla, an intermediate-level programmer with a passion for learning and exploring new technologies. I have a diverse range of interests and enjoy working on projects involving machine learning, application development, and more. With this README, I aim to provide you with an analysis of my GitHub profile and showcase my skills and best projects.</h3>
+<h3 align="center">An intermediate-level programmer passionate about learning and exploring new technologies.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=avjot-chawla&label=Profile%20views&color=0e75b6&style=flat" alt="avjot-chawla" /> </p>
 
