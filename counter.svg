@@ -1,31 +1,34 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 80" width="300" height="80">
-    <!-- Background -->
-    <rect width="100%" height="100%" rx="10" ry="10" fill="#0d1117" stroke="#00ff00" stroke-width="2"/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 350 100" width="350" height="100">
+    <!-- Background with gradient -->
+    <defs>
+        <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+            <stop offset="0%" style="stop-color:#1e1e1e; stop-opacity:1" />
+            <stop offset="100%" style="stop-color:#111111; stop-opacity:1" />
+        </linearGradient>
+    </defs>
+    <rect width="100%" height="100%" rx="15" ry="15" fill="url(#bgGradient)" stroke="#00ffcc" stroke-width="3"/>
     
-    <!-- Title Text -->
-    <text x="20" y="30" font-family="Arial" font-size="16" fill="#ffffff" font-weight="bold">
+    <!-- Title Text with Shadow -->
+    <text x="30" y="35" font-family="Arial" font-size="20" fill="#ffffff" font-weight="bold" text-shadow="2px 2px 5px rgba(0, 255, 204, 0.5)">
         Profile Visits:
     </text>
     
-    <!-- Visit Counter Digits -->
-    <g font-family="Courier New" font-size="24" fill="#00ff00" font-weight="bold" text-anchor="middle">
-        <rect x="20" y="40" width="30" height="30" rx="5" ry="5" fill="#000000" stroke="#00ff00" stroke-width="2"/>
-        <text x="35" y="62">0</text>
+    <!-- Visit Counter Digits with Neon Glow -->
+    <g font-family="Consolas, Courier New" font-size="28" fill="#00ffcc" font-weight="bold" text-anchor="middle">
+        <rect x="30" y="50" width="40" height="40" rx="8" ry="8" fill="#222" stroke="#00ffcc" stroke-width="3"/>
+        <text x="50" y="78">0</text>
         
-        <rect x="55" y="40" width="30" height="30" rx="5" ry="5" fill="#000000" stroke="#00ff00" stroke-width="2"/>
-        <text x="70" y="62">0</text>
+        <rect x="80" y="50" width="40" height="40" rx="8" ry="8" fill="#222" stroke="#00ffcc" stroke-width="3"/>
+        <text x="100" y="78">0</text>
         
-        <rect x="90" y="40" width="30" height="30" rx="5" ry="5" fill="#000000" stroke="#00ff00" stroke-width="2"/>
-        <text x="105" y="62">0</text>
+        <rect x="130" y="50" width="40" height="40" rx="8" ry="8" fill="#222" stroke="#00ffcc" stroke-width="3"/>
+        <text x="150" y="78">6</text>
         
-        <rect x="125" y="40" width="30" height="30" rx="5" ry="5" fill="#000000" stroke="#00ff00" stroke-width="2"/>
-        <text x="140" y="62">4</text>
+        <rect x="180" y="50" width="40" height="40" rx="8" ry="8" fill="#222" stroke="#00ffcc" stroke-width="3"/>
+        <text x="200" y="78">4</text>
         
-        <rect x="160" y="40" width="30" height="30" rx="5" ry="5" fill="#000000" stroke="#00ff00" stroke-width="2"/>
-        <text x="175" y="62">4</text>
-        
-        <rect x="195" y="40" width="30" height="30" rx="5" ry="5" fill="#000000" stroke="#00ff00" stroke-width="2"/>
-        <text x="210" y="62">9</text>
+        <rect x="230" y="50" width="40" height="40" rx="8" ry="8" fill="#222" stroke="#00ffcc" stroke-width="3"/>
+        <text x="250" y="78">4</text>
     </g>
 </svg>
