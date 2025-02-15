@@ -2,9 +2,7 @@
 <h1 align="center">Hi 👋, I'm Avjot Singh Chawla</h1>
 <h3 align="center">An intermediate-level programmer passionate about learning and exploring new technologies.</h3>
 
-</h3><br><br><p align="left"> <img src="https://raw.githubusercontent.com/Avjot-Chawla/profile-views/main/views.svg" width="200">
-  
-[![](https://visitcount.itsvg.in/api?id=Avjot-Chawla&icon=5&color=0)](https://visitcount.itsvg.in)
+![Profile Visits](https://raw.githubusercontent.com/Avjot-Chawla/Avjot-Chawla/main/counter.svg)
 
 - 🔭 I’m currently working on [Chest Xray Pneumonia Detection](https://github.com/Avjot-Chawla/Chest-Xray-Pneumonia-Detection)
 
