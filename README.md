@@ -2,8 +2,6 @@
 <h1 align="center">Hi 👋, I'm Avjot Singh Chawla</h1>
 <h3 align="center">An intermediate-level programmer passionate about learning and exploring new technologies.</h3>
 
-![Profile Visits](https://raw.githubusercontent.com/Avjot-Chawla/Avjot-Chawla/main/counter.svg)
-
 - 🔭 I’m currently working on [Chest Xray Pneumonia Detection](https://github.com/Avjot-Chawla/Chest-Xray-Pneumonia-Detection) and [Agro-based e-commerce website](https://github.com/Avjot-Chawla/Agro-based-e-commerce-website)
 
 - 🌱 I’m currently learning **Java and Data Structures and Algorithms**
